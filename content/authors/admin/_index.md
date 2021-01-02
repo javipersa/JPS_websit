@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Javier Perez
+title: Javier Pérez Sandoval
 
 # Is this the primary user of the site?
 superuser: true
