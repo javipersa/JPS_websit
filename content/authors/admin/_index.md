@@ -31,9 +31,9 @@ education:
   - course: MPhil in Politics (Comparative Government)
     institution: University of Oxford
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BA in Political Science and Public Administration
+    institution: Universidad Iberoamericana (CDMX)
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
