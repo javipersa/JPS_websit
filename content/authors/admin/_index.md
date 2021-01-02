@@ -30,7 +30,7 @@ education:
     year: 2021
   - course: MPhil in Politics (Comparative Government)
     institution: University of Oxford
-    year: 2009
+    year: 2017
   - course: BA in Political Science and Public Administration
     institution: Universidad Iberoamericana (CDMX)
     year: 2013
@@ -42,10 +42,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: mailto:javier.perezsandoval@wolfson.ox.ac.uk
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/javierpsandoval
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
