@@ -1,12 +1,13 @@
 ---
 title: Mexico's Election - The Good, the Bad and the Ugly
+link: https://blog.politics.ox.ac.uk/mexicos-election-the-good-the-bad-and-the-ugly/
 subtitle:
 
 # Summary for listings and search engines
 summary:
 
 # Link this post with a project
-projects: [https://blog.politics.ox.ac.uk/mexicos-election-the-good-the-bad-and-the-ugly/]
+projects: []
 
 # Date published
 date: "2018-06-30T00:00:00Z"
