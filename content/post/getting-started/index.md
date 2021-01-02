@@ -22,11 +22,11 @@ featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ""
-  placement: 2
-  preview_only: false
+# image:
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  # focal_point: ""
+  # placement: 2
+  # preview_only: false
 
 authors:
 - admin
@@ -38,7 +38,6 @@ categories:
 - Politics
 - Latin America
 ---
-## Mexico's Election - The Good, the Bad and the Ugly
 
 Come Sunday at 6 p.m. (GMT-5) Mexican citizens will have had elected not only a new president, but also over 3,400 new public officials. Being the [largest electoral process in Mexican History](https://www.bakerinstitute.org/mexico-2018-election-overview/), this third federal voting round in the post-transition era determines not only Mexico’s future, but —along with several [other elections in the region](http://www.as-coa.org/content/guide-2018-latin-american-elections)— it also helps configure the [ideological composition of Latin America](https://latinamericandiaries.blogs.sas.ac.uk/2016/11/16/the-return-of-the-right-in-latin-america/).
 
