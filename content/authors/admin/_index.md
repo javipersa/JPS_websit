@@ -82,5 +82,3 @@ At Oxford I work as a statistics GTA and I also teach the Latin American Politic
 I have a broad interest for the politics of the ‘developing world’ and a keen interest in Latin America, specifically in Argentinian, Brazilian and Mexican political dynamics. 
 
 I enjoy working out, swimming and long walks. I’m also a Stacraft 2 fan, and a sci-fi, coffee and cinema aficionado.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
