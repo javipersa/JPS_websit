@@ -16,6 +16,10 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
+- description: 100%
+  icon: archive
+  icon_pack: fas
+  name: Research and Analysis
 - description: 90%
   icon: r-project
   icon_pack: fab
@@ -24,6 +28,14 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
+- description: 100%
+  icon: mendeley
+  icon_pack: ai
+  name: Mendeley
+- description: 100%
+  icon: chalkboard-teacher
+  icon_pack: fas
+  name: Teaching
 - description: 10%
   icon: camera-retro
   icon_pack: fas
