@@ -48,10 +48,10 @@ social:
   link: https://twitter.com/javierpsandoval
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: hhttps://www.oqc.ox.ac.uk/people/javier-perez-sandoval
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/javipersa
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
