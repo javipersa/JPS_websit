@@ -1,6 +1,6 @@
 ---
 title: The Politics of Subnational Democracy
-summary: An example of using the in-built project page.
+summary: 
 tags:
 - Subnational Politics
 date: "2020-05-01T00:00:00Z"
