@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Tutor for the Politics in Latin America undergrad course.
+  - title: Undergraduate Tutor.
     company: University of Oxford
     company_url: ''
     location: Oxford
@@ -30,16 +30,28 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        
+        * Politics in Latin America
+        * Statistics (Q-Step 1)
+        * Comparative Government
         * One-on-one and small group teaching.
-        * Course syllabus (by Prof. D. Doyle) [here](media/resume.pdf)
         
         
-  - title: Professor
-    company: University X
+  - title: Associate Lecturer
+    company: Oxford Brookes University
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Oxford
+    date_start: '2018-01-22'
+    date_end: '2018-06-01'
+    description:  |2-
+      * Course: Development and Social Change in Latin America
+      
+      
+  - title: High School Teacher  
+    company: ITESM Tec de Monterrey Campus Santa Fe
+    company_url: ''
+    location: Ciudad de Mexico
+    date_start: '2015-01-01'
+    date_end: '2015-06-01'
+    description:  |2-
+      * Course: Social, Political and Economic Structure of Mexico
 ---
