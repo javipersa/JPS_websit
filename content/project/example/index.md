@@ -27,7 +27,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides= media/r_markdown.pdf
+slides: r_markdown.pdf
 ---
 
 Despite recent contributions, subnational democratic variation has received little systematic attention in comparative politics and has been a grave omission (Dahl 1971, 12) in the literature about democratization. Moreover, existing explanations have been articulated around case studies, reducing our ability to build a broad theory about this phenomenon. To overcome current limitations, my DPhil thesis examines democracy at the subnational level across the largest federations in Latin America.
