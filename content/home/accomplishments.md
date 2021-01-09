@@ -40,7 +40,7 @@ item:
   title: DPIR-ESRC Studentship
   url: https://www.politics.ox.ac.uk/
 - certificate_url: 
-  date_end: "2013-06-01"
+  date_end: ""
   date_start: "2013-06-01"
   description: ""
   organization: Universidad Iberoamericana
