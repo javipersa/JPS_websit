@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: 
+  - certificate_url: 
   date_end: "2015-09-01"
   date_start: "2021-08-01"
   description: ""
@@ -46,5 +46,5 @@ item:
   organization: Universidad Iberoamericana
   organization_url: 
   title: 'UIA (CDMX) Academic Excellence Award'
-  url: https://ibero.mx/
+  url: https://www.ibero.mx/
 ---
