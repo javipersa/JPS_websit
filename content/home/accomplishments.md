@@ -29,7 +29,7 @@ item:
   description: 
   organization: Wolfson College
   organization_url: https://www.wolfson.ox.ac.uk/
-  title: Wolfson College Grant
+  title: 'Wolfson College Grant'
   url: https://www.wolfson.ox.ac.uk/
 - certificate_url: 
   date_end: "2015-09-01"
@@ -37,6 +37,6 @@ item:
   description: ""
   organization: CONACYT
   organization_url: 
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+  title: 'CONACYT Graduate Scholarship'
   url: https://www.conacyt.gob.mx/
 ---
