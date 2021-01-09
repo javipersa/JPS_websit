@@ -24,14 +24,6 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: 
-  date_end: ""
-  date_start: "2020-05-01"
-  description: 
-  organization: Wolfson College
-  organization_url: https://www.wolfson.ox.ac.uk/
-  title: 'Wolfson College Grant'
-  url: https://www.wolfson.ox.ac.uk/
-- certificate_url: 
   date_end: "2015-09-01"
   date_start: "2021-08-01"
   description: ""
@@ -39,7 +31,7 @@ item:
   organization_url: 
   title: 'CONACYT Graduate Scholarship'
   url: https://www.conacyt.gob.mx/
-  - certificate_url: 
+ - certificate_url: 
   date_end: "2019-09-01"
   date_start: "2017-10-01"
   description: ""
@@ -47,9 +39,9 @@ item:
   organization_url: 
   title: 'DPIR - ESRC Studentship'
   url: https://www.politics.ox.ac.uk/
-  - certificate_url: 
+ - certificate_url: 
   date_end: "2013-10-01"
-  date_start: ""
+  date_start: "2013-10-01"
   description: ""
   organization: Universidad Iberoamericana
   organization_url: 
