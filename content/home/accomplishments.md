@@ -39,12 +39,4 @@ item:
   organization_url: 
   title: 'DPIR - ESRC Studentship'
   url: https://www.politics.ox.ac.uk/
- - certificate_url: 
-  date_end: "2013-10-01"
-  date_start: "2013-10-01"
-  description: ""
-  organization: Universidad Iberoamericana
-  organization_url: 
-  title: 'UIA (CDMX) Academic Excellence Award'
-  url: https://www.ibero.mx/
 ---
